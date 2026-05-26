@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;AI+Agent+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jasmine5606&label=Profile+Views&color=3B82F6&style=flat" />
-  <img src="https://img.shields.io/github/stars/jasmine5606/studio-ai?color=yellow" />
-  <a href="mailto:chenjinhua5606@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 <h3 align="center">🛠 Tech Stack</h3>
