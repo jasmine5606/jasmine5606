@@ -60,16 +60,8 @@
 <h3 align="center">📊 GitHub 统计</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasmine5606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasmine5606&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine5606&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmine5606&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasmine5606&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </p>
 
 ---
