@@ -10,13 +10,6 @@
 
 ---
 
-### 👋 关于我
-
-- 🎓 计算机在读，专注 **Java 后端开发**
-- 🔭 擅长 Spring Boot · AI Agent · RAG 检索 · Prompt 工程
-- 💡 独立开发多个生产级项目，熟悉需求到部署全流程
-- 📫 chenjinhua5606@gmail.com
-
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
@@ -30,6 +23,15 @@
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react" />
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript" />
 </p>
+
+---
+
+### 👋 关于我
+
+- 🎓 计算机在读，专注 **Java 后端开发**
+- 🔭 擅长 Spring Boot · AI Agent · RAG 检索 · Prompt 工程
+- 💡 独立开发多个生产级项目，熟悉需求到部署全流程
+- 📫 chenjinhua5606@gmail.com
 
 ---
 
