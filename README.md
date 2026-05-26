@@ -68,5 +68,5 @@
 <p align="center">
   <a href="https://github.com/jasmine5606/studio-ai">🔗 TeamFlow AI 仓库</a>
   ·
-  <a href="https://studio-ai-production.up.railway.app/swagger-ui.html">🌐 在线演示</a>
+  <a href="https://studio-ai.up.railway.app/swagger-ui.html">🌐 在线演示</a>
 </p>
